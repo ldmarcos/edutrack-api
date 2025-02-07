@@ -1,4 +1,4 @@
-# 📚 API = EduTrack – Sistema de Gestão Educacional  
+# 📚 API - EduTrack – Sistema de Gestão Educacional  
 
 O **EduTrack** é uma plataforma de gestão acadêmica que permite o acompanhamento do desempenho dos alunos e professores. O sistema oferece um ambiente interativo e gamificado, onde os alunos podem visualizar suas notas e conquistas, enquanto os professores gerenciam turmas e monitoram o progresso acadêmico.
 
