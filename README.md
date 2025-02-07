@@ -24,16 +24,16 @@ Antes de iniciar, instale as seguintes dependências no seu sistema:
 
 ```bash
 EDUTRACK-API/
-│── src/  # 📂 Código-fonte da API 
-│   ├── config/   # ⚙️ Configuração do MongoDB
-│   ├── controllers/ # 🎯 Controladores para definir a lógica das rotas
-│   ├── models/    # 🧑‍💻 Definições dos modelos (ex: Usuario)
-│   ├── routes/    # 🌐 Definição das rotas da API
-│   ├── app.js     # 🔧 Arquivo principal para configuração do Express
-│── .env           # 📄 Variáveis de ambiente, como credenciais de banco de dados
-│── package.lock.json  # 🛠️ Registro exato das versões das dependências
-│── package.json    # 🛠️ Arquivo de dependências do projeto
-│── server.js     # 🚀 Inicializa o servidor
+│── src/                  # 📂 Código-fonte da API 
+│   ├── config/           # ⚙️ Configuração do MongoDB
+│   ├── controllers/      # 🎯 Controladores para definir a lógica das rotas
+│   ├── models/           # 🧑‍💻 Definições dos modelos (ex: Usuario)
+│   ├── routes/           # 🌐 Definição das rotas da API
+│   ├── app.js            # 🔧 Arquivo principal para configuração do Express
+│── .env                  # 📄 Variáveis de ambiente, como credenciais de banco de dados
+│── package.lock.json     # 🛠️ Registro exato das versões das dependências
+│── package.json          # 🛠️ Arquivo de dependências do projeto
+│── server.js             # 🚀 Inicializa o servidor
 ```
 
 ---
